@@ -1,0 +1,12 @@
+joblib
+librosa
+matplotlib
+numpy
+openai-whisper
+pandas
+scikit-learn
+scipy
+seaborn
+sentence-transformers
+spacy
+torch

@@ -1,0 +1,35 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+outputs/
+models/
+.ipynb_checkpoints/
+
+# Local generated submission files
+submission.csv
+**/submission.csv
+
+# Audio files are private challenge inputs
+*.wav
+
+# Private competition data
+train/
+test/
+train.csv
+test.csv
+sample_submission.csv
+notebooks/15_testing.ipynb
+
+# Model caches and credentials
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+.cache/
+.huggingface/
+.env
+*.key
+*.pem
